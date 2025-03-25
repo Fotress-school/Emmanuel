@@ -6,16 +6,16 @@
 }
 
 /* CSS Variable Declaration */
-:root{
-    --main-text-color: white;
-    --primary-color: blue;
-    --secondary-color: #ffcc00;
-    --footer-color: white;
-    --main-background-color: green;
-    --about-color: red;
-    --light-color: white;
-    --project-card-color: yellow;
-    --project-color: #f0f0f0;
+:root {
+    --main-text-color: #555;
+    --primary-color: #16a085; /* Teal */
+    --secondary-color: #f39c12; /* Amber */
+    --footer-color: #2c3e50;
+    --main-background-color: #ecf0f1;
+    --about-color: #ffffff;
+    --light-color: #ffffff;
+    --project-card-color: #ccd1d1;
+    --project-color: #eaeaea;
 }
 
 
